@@ -1,3 +1,4 @@
+UserA is adding a new line to firstFile
 Matt is adding nifty new content!
 This is the initial contents
 of the first file that
