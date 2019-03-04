@@ -1,0 +1,1 @@
+UserB adds that "This is the contents of goEagles.txt."
