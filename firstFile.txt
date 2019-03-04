@@ -1,3 +1,4 @@
+UserA added a modification to firstFile.txt after creating a branch developA.
 UserA is adding a new line to firstFile
 Matt is adding nifty new content!
 This is the initial contents
