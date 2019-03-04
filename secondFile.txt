@@ -1,4 +1,4 @@
-UserB is adding.
+Both UserA and UserB are adding.
 This is the initial contents
 of the second file that comprises
 our most excellent project.
